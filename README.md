@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/WesleyNunesSilva">
   <img height="180em" widith="42%" src="https://github-readme-stats.vercel.app/api?username=WesleyNunesSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" widith="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyNunesSilva&layout=compact&langs_count=20&theme=dark"/>
+  <img height="180em" widith="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyNunesSilva&layout=compact&langs_count=21&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Wesley-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
