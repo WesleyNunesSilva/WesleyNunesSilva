@@ -12,7 +12,10 @@
   <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wesley-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Wesley-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
+   <img align="center" alt="Wesley-Tailwind" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg">
+    <img align="center" alt="Wesley-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg">
+    
 </div>
   
   ##
